@@ -1,0 +1,10 @@
+c:\users\shizuniao\documents\visual studio 2015\Projects\Json\Json\bin\Debug\Json.exe.config
+c:\users\shizuniao\documents\visual studio 2015\Projects\Json\Json\obj\Debug\Json.csprojResolveAssemblyReference.cache
+c:\users\shizuniao\documents\visual studio 2015\Projects\Json\Json\bin\Debug\Json.exe
+c:\users\shizuniao\documents\visual studio 2015\Projects\Json\Json\bin\Debug\Json.pdb
+c:\users\shizuniao\documents\visual studio 2015\Projects\Json\Json\bin\Debug\Newtonsoft.Json.dll
+c:\users\shizuniao\documents\visual studio 2015\Projects\Json\Json\bin\Debug\Newtonsoft.Json.xml
+c:\users\shizuniao\documents\visual studio 2015\Projects\Json\Json\obj\Debug\Json.exe
+c:\users\shizuniao\documents\visual studio 2015\Projects\Json\Json\obj\Debug\Json.pdb
+C:\Users\shizuniao\Documents\Visual Studio 2015\Projects\Json\Json\bin\Debug\NSoup.dll
+C:\Users\shizuniao\Documents\Visual Studio 2015\Projects\Json\Json\bin\Debug\BouncyCastle.Crypto.dll
